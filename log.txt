@@ -1,0 +1,11 @@
+commit 147d6e91ad82a7fe9a6c16cee5cada5f1afdc083
+Author: esubbotina <esubbotina@cogniance.com>
+Date:   Tue Jul 19 15:05:10 2016 +0300
+
+    modified test.txt
+
+commit 49a15580bd40423bbda9fdad155b8789cf357763
+Author: esubbotina <esubbotina@cogniance.com>
+Date:   Tue Jul 19 14:58:58 2016 +0300
+
+    adding test and log
